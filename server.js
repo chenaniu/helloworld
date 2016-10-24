@@ -8,5 +8,5 @@ server = http.createServer(function(req, res) {
 	res.end();  
 });  
 //¼àÌı80¶Ë¿Ú  
-server.listen(80);  
+server.listen(8888);  
 console.log('server started'); 
